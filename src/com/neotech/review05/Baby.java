@@ -20,6 +20,10 @@ public class Baby {
 	void eat() {
 		System.out.println(name + " is eating");
 	}
+	
+	void laughs () {
+		System.out.println(name + " is laughs");
+	}
 
 	void displayInformation() {
 		System.out.println("My name is " + name);
