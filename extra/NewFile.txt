@@ -1,0 +1,7 @@
+#Students are tired!!!
+#Sun Dec 08 13:34:25 EST 2024
+School=NeoTech
+FirstName=Cadet
+LastName=Eugene
+Age=60
+SSN=910-27-8134
