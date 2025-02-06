@@ -27,6 +27,8 @@ public class StudentList {
 		studentList.add(s1); // Adding the student into the ArrayList
 		studentList.add(new Student("Hazal")); // Adding the new student object directly
 		studentList.add(new Student("Bushra"));
+		studentList.add(new Student("Natalia"));
+		
 
 		System.out.println("Size -> " + studentList.size());
 
