@@ -20,15 +20,16 @@ public class Baby {
 	void eat() {
 		System.out.println(name + " is eating");
 	}
-	
-	void laughs () {
-		System.out.println(name + " is laughs");
+	//made some changes
+	void laugh () {
+		System.out.println(name + " is laughing");
 	}
 
 	void displayInformation() {
 		System.out.println("My name is " + name);
 		System.out.println("My gender is " + gender);
 		System.out.println("My hair color is " + hairColor);
+	
 	}
 
 }
